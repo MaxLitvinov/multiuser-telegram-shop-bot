@@ -132,9 +132,11 @@ async def handle_text(message: types.Message):
     s = get_session(username)
     text = message.text
 
-🤗 Раді вітати кожного!",
+        await message.answer(
+            "🤗 Раді вітати кожного!",
             parse_mode="html",
         )
+
 
     elif text == "⭐️ FAQ":
         await bot.send_message(
