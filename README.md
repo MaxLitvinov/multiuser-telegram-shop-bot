@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26908318/README.md)
 # 🎲 Borent — Telegram-бот для аренды настольных игр
 
 Telegram-бот для проката настольных игр с корзиной, оплатой через QIWI P2P и админ-панелью.
